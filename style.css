@@ -1,0 +1,28 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-weight: 900;
+    font-style: oblique;
+    text-decoration-style: solid;
+    font-size: medium;
+    font-family: Verdana;
+
+
+  }
+  canvas {
+    display: block;
+    border: 2px dashed black;
+    background-color: aquamarine;
+    
+  }
+  
+  h4{
+    color:rgb(255, 1, 1);
+    font-family: Verdana;
+    
+  }
+
+  h3{
+    color:red;
+  }
